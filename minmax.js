@@ -28,3 +28,5 @@ const getMinMax = number => {
     }
   }
 };
+
+getMinMax(number);
